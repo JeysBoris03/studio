@@ -4,7 +4,7 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'TipsRamdom JB',
+  title: 'Tip Calculator',
   description: 'A social tipping calculator app designed to easily calculate tips and split bills among friends.',
 };
 

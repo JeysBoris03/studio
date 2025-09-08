@@ -58,7 +58,7 @@ export function TipCalculator() {
   return (
     <Card className="w-full shadow-2xl bg-card/80 backdrop-blur-sm border-primary/20">
       <CardHeader className="text-center">
-        <CardTitle className="text-4xl font-headline font-bold text-accent">TipsRamdom JB</CardTitle>
+        <CardTitle className="text-4xl font-headline font-bold text-accent">Tip Calculator</CardTitle>
         <CardDescription>Calculate tips and split bills with ease.</CardDescription>
       </CardHeader>
       <CardContent className="space-y-6">
